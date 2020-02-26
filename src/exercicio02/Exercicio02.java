@@ -7,6 +7,7 @@ public class Exercicio02 {
 
     public static void main(String[] args) {
 
+
         List<Funcionario> funcionarios = new ArrayList<>();
 
         funcionarios.add(new AuxiliarEscritorio("Nery Pumpido", 2500.0, 500.0));
@@ -27,7 +28,9 @@ public class Exercicio02 {
     }
 
     private static double calculaOrcamentoAnual(List<Funcionario> funcionarios) {
-        // TODO: implemente o código deste método
-        return 0.0;
+        for (int i=0; i<funcionarios.size; i++ ) {
+            let resultadoTotal = resultadoTotal + funcionarios.salarioAnual()
+        } return resultadoTotal;
     }
+
 }

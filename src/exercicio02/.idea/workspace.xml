@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a663a87-873a-4e99-971e-ac237abc05ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../exercicio01/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio01/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AuxiliarEscritorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/AuxiliarEscritorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TecnicoManutencao.java" beforeDir="false" afterPath="$PROJECT_DIR$/TecnicoManutencao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio03/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/Medicamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio03/Medicamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/OTC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio03/OTC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/Perfumaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio03/Perfumaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exercicio03/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio03/Produto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YLcqmLLYYlSMK1ykvfVH5bn3ja" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercicio03" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a663a87-873a-4e99-971e-ac237abc05ab" name="Default Changelist" comment="" />
+      <created>1582725507241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582725507241</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="799" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1582727739853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="799" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582727739853" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582728295000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582728295000" />
+  </component>
+</project>
